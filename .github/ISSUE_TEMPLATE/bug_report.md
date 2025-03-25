@@ -1,12 +1,11 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[\U0001F6A8BUG]"
+title: "\U0001F6A8[Role/Type] 기능요약"
 labels: bug
 assignees: ''
 
 ---
-
 
 ## 버그 설명
 > 어떤 버그인지 간결하게 설명해주세요 <br/>
