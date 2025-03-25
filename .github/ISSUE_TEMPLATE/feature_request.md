@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Feature request
-about: 기능 개발 템플릿
-title: 'Feat: '
-labels: feat
-assignees: ''
-
----
-
 ## 기능 설명
 > 추가하려는 기능에 대해 간결하게 설명해주세요 <br/>
 * 
