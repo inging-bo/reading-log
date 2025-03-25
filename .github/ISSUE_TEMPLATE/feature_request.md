@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: "[Role/Type] 기능요약"
 labels: ''
 assignees: ''
 
